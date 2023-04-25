@@ -1,17 +1,24 @@
-STEP Part Names
+What's In A Name? Evaluating Assembly-Part Semantic Knowledge in Language Models through User-Provided Names in CAD Files
 ===============
 
 Contents:
 
-1. [Directory Structure](#Directory-Structure)
-2. [Requirements](#Requirements)
-3. [Data](#Data)
-4. [Code](#Code)
+1. [Citing this Work](#Citing-this-Work)
+2. [Directory Structure](#Directory-Structure)
+3. [Requirements](#Requirements)
+4. [Data](#Data)
+5. [Code](#Code)
    1. [Structure](#Structure)
    2. [Running the Models](#Running-the-Models)
       1. [Fine-Tuning DistilBERT](#Fine-Tuning-DistilBERT)
       2. [Two Parts](#Two-Parts)
       3. [Missing Part & Document Name](#Missing-Part-&-Document-Name)
+
+### Citing this Work
+
+If you use any of the code or techniques from this repository, please cite the following:
+
+> Peter Meltzer, Joseph G. Lambourne and Daniele Grandi. ‘What's In A Name? Evaluating Assembly-Part Semantic Knowledge in Language Models through User-Provided Names in CAD Files’. In Journal of Computing and Information Science in Engineering (JCISE), 2023.
 
 
 ### Directory Structure
