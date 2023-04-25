@@ -13,6 +13,7 @@ Contents:
       1. [Fine-Tuning DistilBERT](#Fine-Tuning-DistilBERT)
       2. [Two Parts](#Two-Parts)
       3. [Missing Part & Document Name](#Missing-Part-&-Document-Name)
+6. [License](#License)
 
 ### Citing this Work
 
@@ -299,3 +300,15 @@ ABCNamesWithParts:
   --no_lower            do not convert strings to lower case (default: False)
   --replace_            Replace _ characters with spaces (default: False)
 ```
+        
+### License
+Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
