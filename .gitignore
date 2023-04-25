@@ -1,0 +1,10 @@
+.idea/
+venv/
+lightning_logs/
+checkpoints/
+data/
+*.egg-info
+cache/
+gensim_logs/
+set_results.csv
+results.csv
