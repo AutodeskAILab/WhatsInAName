@@ -4,16 +4,17 @@ What's In A Name? Evaluating Assembly-Part Semantic Knowledge in Language Models
 Contents:
 
 1. [Citing this Work](#Citing-this-Work)
-2. [Directory Structure](#Directory-Structure)
-3. [Requirements](#Requirements)
-4. [Data](#Data)
-5. [Code](#Code)
+2. [Data](#Data)
+3. [Directory Structure](#Directory-Structure)
+4. [Requirements](#Requirements)
+5. [Data](#Data)
+6. [Code](#Code)
    1. [Structure](#Structure)
    2. [Running the Models](#Running-the-Models)
       1. [Fine-Tuning DistilBERT](#Fine-Tuning-DistilBERT)
       2. [Two Parts](#Two-Parts)
       3. [Missing Part & Document Name](#Missing-Part-&-Document-Name)
-6. [License](#License)
+7. [License](#License)
 
 ### Citing this Work
 
@@ -21,6 +22,17 @@ If you use any of the code or techniques from this repository, please cite the f
 
 > Peter Meltzer, Joseph G. Lambourne and Daniele Grandi. ‘What's In A Name? Evaluating Assembly-Part Semantic Knowledge in Language Models through User-Provided Names in CAD Files’. In Journal of Computing and Information Science in Engineering (JCISE), 2023.
 
+### Data
+
+Data is available from <https://whats-in-a-name-dataset.s3.us-west-2.amazonaws.com/whats_in_a_name_dataset.zip>.
+
+This can be downloaded into place using:
+
+```shell
+$ ./download_data.sh
+```
+
+(requires curl and unzip).
 
 ### Directory Structure
 
