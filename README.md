@@ -18,9 +18,11 @@ Contents:
 
 ### Citing this Work
 
+The full paper is available on arXiv at: <https://arxiv.org/abs/2304.14275>
+
 If you use any of the code or techniques from this repository, please cite the following:
 
-> Peter Meltzer, Joseph G. Lambourne and Daniele Grandi. ‘What's In A Name? Evaluating Assembly-Part Semantic Knowledge in Language Models through User-Provided Names in CAD Files’. In Journal of Computing and Information Science in Engineering (JCISE), 2023.
+> Peter Meltzer, Joseph G. Lambourne and Daniele Grandi. ‘What's In A Name? Evaluating Assembly-Part Semantic Knowledge in Language Models through User-Provided Names in CAD Files’. In Journal of Computing and Information Science in Engineering (JCISE), 2023. https://arxiv.org/abs/2304.14275
 
 ### Data
 
