@@ -1,5 +1,5 @@
 git+https://github.com/huggingface/transformers
-torch==1.12.0
+torch==2.4.0
 numpy==1.23.1
 pandas==1.4.3
 tqdm==4.64.0
